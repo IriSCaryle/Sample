@@ -7,5 +7,5 @@ IriSCaryle
 * お好み焼きレシピ  
  [okonomi.txt](https://github.com/IriSCaryle/Sample/blob/master/okonomi.txt)   
 ## リモートリポジトリ 
-* [README.md]()を作ってみる  
+* [README.md](readme.txt)を作ってみる  
 * マークダウンを覚える  
