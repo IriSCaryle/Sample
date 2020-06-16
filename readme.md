@@ -1,11 +1,11 @@
 # README.mdを作成
-##はじめてのGitHub  　
+## はじめてのGitHub  　
 IriSCaryle  
 <https://github.com/IriSCaryle/Sample.git> 
-##ローカルリポジトリ  
+## ローカルリポジトリ  
 
 *お好み焼きレシピ  
  [okonomi.txt](https://github.com/IriSCaryle/Sample/blob/master/okonomi.txt)   
-###リモートリポジトリ  
+### リモートリポジトリ  
 *[README.md]()を作ってみる  
 *マークダウンを覚える  
